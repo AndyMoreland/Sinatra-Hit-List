@@ -1,0 +1,6 @@
+*.swp
+db/*.db
+db/*.sqlite*
+log/*.log
+tmp/*.txt
+*.DS_Store
